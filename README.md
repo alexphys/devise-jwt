@@ -1,3 +1,7 @@
+### FORKED FROM https://github.com/waiting-for-dev/devise-jwt
+to provide backward compability for rails 4
+
+
 # Devise::JWT
 
 [![Gem Version](https://badge.fury.io/rb/devise-jwt.svg)](https://badge.fury.io/rb/devise-jwt)
